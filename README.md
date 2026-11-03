@@ -1,2 +1,3 @@
 # my-first-repo
-Github assignment for 262A :3
+My name is Haven!
+This is a Github assignment for INF STD 262A: Data Management and Practices
